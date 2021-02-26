@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/linaCardozo/activity-server-side-rendering#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "nodemon": "^2.0.7"
   }
 }
